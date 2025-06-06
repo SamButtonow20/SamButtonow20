@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SamButtonow20.
-- 👀 I’m interested in Web Development, Security, and AI.
-- 🌱 I’m currently pursuing my capstone project and taking courses such as Principles of Security and AI.
-- 💞️ I’m looking to collaborate on websites and application designs.
-- 📫 How to reach me, is you can reach me through my portofolio page https://sambuttonow20.github.io/.
-- ⚡ Fun fact: Im a big lego person and love music.
-
-
+- 🎓 I recently graduated with a degree in Computer Science.
+- 👀 I’m passionate about Web Development, Cybersecurity, and AI.
+- 💼 I’m actively seeking tech roles in software development and security.
+- 💞️ I’m open to collaborating on innovative web and application projects.
+- 📫 Feel free to reach out via my portfolio: https://sambuttonow20.github.io/
+- ⚡ Fun fact: I’m a big Lego enthusiast and love music.
